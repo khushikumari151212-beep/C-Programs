@@ -28,7 +28,9 @@ More C programs related to:
 - Loops
 - Arrays
 - Functions
-will be added soon.
+will be added soon!
+
+And this repository also contains my programming projects for practice, learning, and skill development using other technologies & languages.
 
 ## Author
 Khushi Kumari
